@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fibonacci-generator-ah"
   gem.homepage = "http://github.com/abigezunt/fibonacci-generator-ah"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{a simple fibonacci sequence method}
+  gem.description = %Q{pass in one parameter - how many numbers in the fib sequence you want returned}
   gem.email = "abby.g.howell@gmail.com"
   gem.authors = ["Abby Howell"]
   # dependencies defined in Gemfile
